@@ -41,4 +41,12 @@ git config --list
 
 ## 3. `git init`
 
+Tác dụng : Khởi tạo 1 git repository 1 project mới hoặc đã có.
+
+Cách dùng: `git init` trong thư mục gốc của dự án.
+
 ## 4. `git clone`
+
+Tác dụng: Copy 1 git repository từ remote source.
+
+Cách dùng: git clone <:clone git url:>
